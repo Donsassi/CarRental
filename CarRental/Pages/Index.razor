@@ -1,0 +1,87 @@
+﻿@page "/"
+@using Business.Classes
+@using Common.Enums
+@using Common.Interfaces
+@inject BookingProcessor bp
+
+<strong>Vehicles</strong>
+<table class="table table-dark table-striped">
+    <thead>
+        <tr>
+            <th>RegNo</th>
+            <th>Maker</th>
+            <th scope="col">Odometer</th>
+            <th scope="col">Cost Km</th>
+            <th scope="col">Vehicle Type</th>
+            <th scope="col">$ Day</th>
+            <th scope="col">Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var car in bp.GetVehicles())
+            {
+        <tr>
+           
+            <td>@car.RegNo</td>
+            <td>@car.Maker</td>
+            <td>@car.Odometer</td>
+            <td>@car.CostKm</td>
+            <td>@car.VehicleType</td>
+            <td>@car.CostDay $</td>
+            <td>@car.VehicleStatus</td>
+            
+        </tr>
+            }
+   </tbody>
+</table>
+
+<strong>Booking</strong>
+<table class="table table-dark table-striped">
+    <thead>
+        <tr>
+            <th scope="col">RegNo</th>
+            <th scope="col">Customer</th>
+            <th scope="col">Km Rented</th>
+            <th scope="col">Km Return</th>
+            <th scope="col">Rented</th>
+            <th scope="col">Returned</th>
+            <th scope="col">Cost</th>
+            <th scope="col">Stauts</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>AAA111</td>
+            <td>John Doe</td>
+            <td>250</td>
+            <td></td>
+            <td>DateHere</td>
+            <td>DateHere</td>
+            <td>TotalCostHere</td>
+            <td>Status</td>
+        </tr>
+    </tbody>
+</table>
+<strong>Customers</strong>
+
+
+<table class="table table-dark table-striped">
+    <thead>
+        <tr>
+            <th scope="col">SSN</th>
+            <th scope="col">LastName</th>
+            <th scope="col">FirstName</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cust in bp.GetCustomers())
+        {
+            
+        <tr>
+            <td>@cust.Social</td>
+            <td>@cust.FirstName</td>
+            <td>@cust.LastName</td>
+        </tr>      
+        }
+    </tbody>
+</table>
