@@ -1,0 +1,11 @@
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Common\bin\Debug\net6.0\Common.dll
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Common\obj\Debug\net6.0\Common.dll
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Common\obj\Debug\net6.0\ref\Common.dll

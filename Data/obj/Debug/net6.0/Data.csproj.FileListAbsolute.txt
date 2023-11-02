@@ -1,0 +1,15 @@
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Data\bin\Debug\net6.0\Data.dll
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Data\bin\Debug\net6.0\Common.dll
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Data\bin\Debug\net6.0\Common.pdb
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Data\obj\Debug\net6.0\Data.dll
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\zardo\OneDrive\Skrivbord\skola\CarRental\Data\obj\Debug\net6.0\ref\Data.dll
